@@ -14,37 +14,37 @@ const Item = () => {
     <div id="king">
         <div class='item'>
             <img src={Drink1} alt="Drink 1" />
-            <div>Drink1</div>
+            <div>Drink 1</div>
             <button>1500원</button>
         </div>
         
         <div class='item'>
             <img src={Drink2} alt="Drink 2" />
-            <div>Drink2</div>
+            <div>Drink 2</div>
             <button>1500원</button>
         </div>
 
         <div class='item'>
             <img src={Drink3} alt="Drink 3" />
-            <div>Drink3</div>
+            <div>Drink 3</div>
             <button>900원</button>
         </div>
 
         <div class='item'>
             <img src={Drink4} alt="Drink 4" />
-            <div>Drink4</div>
+            <div>Drink 4</div>
             <button>1000원</button>
         </div>
 
         <div class='item'>
             <img src={Drink5} alt="Drink 5" />
-            <div>Drink5</div>
+            <div>Drink 5</div>
             <button>1200원</button>
         </div>
 
         <div class='item'>
             <img src={Drink6} alt="Drink 6" />
-            <div>Drink6</div>
+            <div>Drink 6</div>
             <button>1700원</button>
         </div>
     </div>
